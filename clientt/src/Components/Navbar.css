@@ -1,0 +1,37 @@
+.leftContent{
+    text-align:center;
+    color: black;
+    float: left;
+    display:flex;
+    margin-left: auto;
+    justify-content: space-between;
+}
+.link{
+    color:black;
+}
+.logo{
+    margin-top:0px;
+    padding:0px;
+    width:130px;
+    height:auto;
+}
+.nav{
+    width: 100%;
+    background-color: rgba(42, 21, 125, 0.3);  /* Set the transparency to 0.3 */
+    overflow: hidden;
+    height:40px;
+  }
+  .nav a{
+      padding: 14px 16px;
+      float: left;
+      text-decoration: none;
+      color: #fff;
+  }
+  .nav a:hover{
+    background-color:#fff;
+    color: black;
+  }
+  .nav a.active{
+      background-color:#088;
+      color: white;
+  }
