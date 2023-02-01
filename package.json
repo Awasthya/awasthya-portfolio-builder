@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "4": "^0.0.0",
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "@mui/icons-material": "^5.8.4",
+    "@mui/styled-engine": "^5.8.0",
+    "bootstrap": "^3.4.1",
+    "cookie-parser": "^1.4.6",
+    "cookies-parser": "^1.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "react-router-dom": "^5.2.0"
+  }
+}
